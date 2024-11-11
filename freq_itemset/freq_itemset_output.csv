@@ -1,0 +1,15 @@
+Frequency % :30
+No of transactions: 4
+Min frequency: 1.2
+
+Frequent 1-item set: 
+{bread} 3
+{egg} 2
+{sauce} 2
+
+Frequent 2-item set: 
+{egg sauce} 2
+
+Association Rules:
+sauce => egg (Support: 50%, Confidence: 100%)
+egg => sauce (Support: 50%, Confidence: 100%)
